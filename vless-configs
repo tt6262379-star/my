@@ -1,4 +1,1 @@
-vless://75807638-6f19-07d0-ae08-38492ee85c88@188.246.226.14:52006?security=tls&encryption=none&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision#%F0%9F%8C%90%20XX%20%7C%20VLESS%20%7C%20%E2%9A%A1%20409ms
-ss://YWVzLTI1Ni1nY206c3NfYXJlc3RfMTc3NjcwMjA3OA@2.26.55.143:8388#%F0%9F%8C%90%20XX%20%7C%20Shadowsocks%20%7C%20%E2%9A%A1%20480ms
-vless://22f64422-7763-45f4-a7c2-55d09de5e587@51.250.45.240:443?security=reality&encryption=none&pbk=r967kqGPTGVJE-K8Hxcei9LM3XJ4PLpv11KWVDJXDGA&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&sid=bbac8ab37c#%F0%9F%8C%90%20XX%20%7C%20VLESS%20%7C%20%E2%9A%A1%20585ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ=@1.161.245.168:50099#%F0%9F%8C%90%20XX%20%7C%20Shadowsocks%20%7C%20%E2%9A%A1%20640ms
+vless://595ae3f9-5a91-4eaa-82a3-28a221cf8f7f@45.138.16.58:30086?security=&encryption=none&type=grpc&serviceName=gprc#%F0%9F%8C%90%20XX%20%7C%20VLESS%20%7C%20%E2%9A%A1%20270ms
